@@ -3,7 +3,7 @@ package MyTankGame1_12;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-//我的坦克
+//我的坦克 很溜
 class Hero extends Tank implements KeyListener, Runnable {
 	// Shot s = null;
 	int runUp;
